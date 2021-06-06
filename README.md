@@ -1,3 +1,3 @@
-# realProject
-real
-시험용 저장소입니다.
+# Python Study
+
+python 공부한 내용 올리기.
